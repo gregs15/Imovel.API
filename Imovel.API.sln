@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imovel.API", "Imovel.API\Imovel.API.csproj", "{76B1E478-E218-477B-B731-2AE00153E701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imovel.Core", "Imove.Core\Imovel.Core.csproj", "{DBE84044-90FA-4C44-8BC1-975E6255A347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imovel.Infrastructure", "Imovel.Infrastructure\Imovel.Infrastructure.csproj", "{023AFA06-1F0C-43DE-8762-30E6A1FE3F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imovel.Application", "Imovel.Application\Imovel.Application.csproj", "{46AEAEF9-A32A-4EA1-BCC5-F4E2B84A2E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B1E478-E218-477B-B731-2AE00153E701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B1E478-E218-477B-B731-2AE00153E701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B1E478-E218-477B-B731-2AE00153E701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B1E478-E218-477B-B731-2AE00153E701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE84044-90FA-4C44-8BC1-975E6255A347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE84044-90FA-4C44-8BC1-975E6255A347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE84044-90FA-4C44-8BC1-975E6255A347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE84044-90FA-4C44-8BC1-975E6255A347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023AFA06-1F0C-43DE-8762-30E6A1FE3F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023AFA06-1F0C-43DE-8762-30E6A1FE3F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023AFA06-1F0C-43DE-8762-30E6A1FE3F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023AFA06-1F0C-43DE-8762-30E6A1FE3F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46AEAEF9-A32A-4EA1-BCC5-F4E2B84A2E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AEAEF9-A32A-4EA1-BCC5-F4E2B84A2E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AEAEF9-A32A-4EA1-BCC5-F4E2B84A2E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AEAEF9-A32A-4EA1-BCC5-F4E2B84A2E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B98F243-74F6-4E05-B8D1-7F5D787A4DCC}
+	EndGlobalSection
+EndGlobal
